@@ -92,8 +92,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Softqube Technologies</title>
-        <meta name="description" content="Softqube Technologies - AI-powered Hotel Sales Assistant" />
+        <title>Super MIA</title>
+        <meta name="description" content="Super MIA - AI-powered Hotel Sales Assistant" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -108,7 +108,7 @@ export default function Home() {
           <img className="logimg" src={sqtlogo.src} alt="demo-image"/>
          
           {/* <img src="../assets/images/sqtlogo.svg" alt="demo-image" height={100} width={100}/> */}
-          <h1 className="text-5xl font-bold mb-6">Welcome to Softqube</h1>
+          <h1 className="text-5xl font-bold mb-6">Welcome to Super MIA</h1>
           <p className="text-xl mb-12 max-w-2xl mx-auto">Experience the future of Hotel sales with our AI-powered assistant.</p>
         </motion.div>
         <motion.div

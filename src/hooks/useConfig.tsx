@@ -38,8 +38,8 @@ export type UserSettings = {
 
 // Fallback if NEXT_PUBLIC_APP_CONFIG is not set
 const defaultConfig: AppConfig = {
-  title: "Softqube Technologies",
-  description: "A playground for Hotel Sales Person at Softqubes Technologies",
+  title: "Super MIA",
+  description: "A playground for Hotel Sales Person at Super MIA",
   video_fit: "cover",
   settings: {
     editable: true,
